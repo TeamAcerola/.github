@@ -1,17 +1,16 @@
-# WeaveWorks Studios 🎮
+# Team Acerola 🎮
 
-Bem-vindo ao repositório oficial da **WeaveWorks Studios**! Somos um estúdio indie dedicado a criar experiências de jogo únicas e imersivas. Aqui, você encontrará informações sobre nossos projetos, atualizações de desenvolvimento e recursos da comunidade.
+Bem-vindo ao repositório oficial da **Team Acerola**! Somos um estúdio indie dedicado a criar experiências de jogo únicas e imersivas. Aqui, você encontrará informações sobre nossos projetos, atualizações de desenvolvimento e recursos da comunidade.
 
 ## Sobre Nós 🧵
 
-Na WeaveWorks Studios, nossa missão é "tecer" mundos envolventes que cativem jogadores de todas as idades. Nossa equipe é composta por seis amigos apaixonados por jogos e desenvolvimento:
+No Team Acerola, nossa missão é "tecer" mundos envolventes que cativem jogadores de todas as idades. Nossa equipe é composta por seis amigos apaixonados por jogos e desenvolvimento:
 
-- **Seltik**: Coordenador do projeto e desenvolvedor.
-- **Marcão**: Desenvolvedor.
-- **Caio**: Desenvolvedor.
-- **Daninim**: Música e marketing.
-- **Luska**: Artista de pixel art.
-- **Zé Luiz**: Desenvolvedor.
+- **Ewerthon**: Coordenador do projeto e desenvolvedor.
+- **Daniel**: Música e marketing.
+- **José Luiz**: Desenvolvedor.
+- **Lucas**: Artista de pixel art.
+- **Hugo**: Artista de pixel art.
 
 ## Nosso Projeto Atual 🚀
 
@@ -25,6 +24,8 @@ Estamos entusiasmados em anunciar o desenvolvimento do nosso primeiro jogo: um *
 
 Fique à vontade para entrar em contato conosco através das nossas redes sociais ou por e-mail:
 
-- **Instagram**: [@weaveworksstudios](https://www.instagram.com/weaveworksstudios/)  
-- **YouTube**: [WeaveWorks Studios](https://www.youtube.com/@WeaveWorksStudios)
-- **E-mail**: [studiosweaveworks@gmail.com](studiosweaveworks@gmail.com)  
+- **X**: [@teamacerola](https://x.com/teamacerola)
+- **YouTube**: [Team Acerola](https://www.youtube.com/@TeamAcerola)
+- **Instagram**: [@teamacerolaof](https://www.instagram.com/teamacerolaof/)
+- **TikTok**: [@team.acelora](https://www.tiktok.com/@team.acelora)
+- **E-mail**: [teamacerola.contato@gmail.com](teamacerola.contato@gmail.com@gmail.com)
